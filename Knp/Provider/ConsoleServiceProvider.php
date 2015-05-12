@@ -5,7 +5,7 @@ namespace Knp\Provider;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 
-use Knp\Console\Container as ConsoleApplication;
+use Knp\Console\Application as ConsoleApplication;
 use Knp\Console\ConsoleEvents;
 use Knp\Console\ConsoleEvent;
 
